@@ -33,6 +33,6 @@ Kevyn Murilo
 
 ## Contato
 
-- Email: [kevynmurilo2017@gmail.com]
-- LinkedIn: [https://www.linkedin.com/in/kevyn-murilo-4b738b285/]
-- GitHub: [https://github.com/KevynMurilo]
+- Email: kevynmurilo2017@gmail.com
+- LinkedIn: https://www.linkedin.com/in/kevyn-murilo-4b738b285/
+- GitHub: https://github.com/KevynMurilo
