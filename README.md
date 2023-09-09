@@ -2,7 +2,8 @@
 
 Este é um aplicativo simples desenvolvido em React Native que ajuda os usuários a determinar se é mais vantajoso abastecer com álcool ou gasolina com base nos preços informados.
 
-![Captura de tela do aplicativo](screenshot.png)
+<img src="https://github.com/KevynMurilo/AlcoolOuGasolina/assets/132490286/2eef41d5-4ea6-46f6-b9f5-b7435c3f8974" alt="Screenshot_1694271098" width="300"/>
+<img src="https://github.com/KevynMurilo/AlcoolOuGasolina/assets/132490286/bb35958e-ab78-4a91-a68f-fac6a8ca040c" alt="Screenshot_1694271089" width="300"/>
 
 ## Funcionalidades
 
