@@ -28,10 +28,6 @@ Este é um aplicativo simples desenvolvido em React Native que ajuda os usuário
 
 Sinta-se à vontade para contribuir para o desenvolvimento deste projeto. Você pode abrir problemas (issues) ou enviar pull requests com melhorias, correções de bugs, ou novas funcionalidades.
 
-## Licença
-
-Este projeto é licenciado sob a Licença MIT - consulte o arquivo [LICENSE.md](LICENSE.md) para obter detalhes.
-
 ## Autor
 
 Kevyn Murilo
